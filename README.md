@@ -91,8 +91,8 @@ synent-task9-telcochurn-ahmed/
 - **GitHub:** [synent-task9-telcochurn-ahmed](https://github.com/AhmedAmineBejaoui/synent-task9-telcochurn-ahmed)
 - **Live App:** [synent-task9-telcochurn-ahmed.streamlit.app](https://synent-task9-telcochurn-ahmed.streamlit.app/)
 - **Dataset:** [Kaggle — Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) + local `data/WA_Fn-UseC_-Telco-Customer-Churn.csv`
-- **Video (1–3 min):** _TODO — add Drive/YouTube link here_
-- **LinkedIn post:** _TODO — add LinkedIn post link here_
+- **Video (1–3 min):** [Google Drive — Task 9 Demo](https://drive.google.com/file/d/15RRbMFwFUu1bxcKkwbDWIZwohnK6o4uP/view?usp=sharing)
+- **LinkedIn post:** [LinkedIn — Telco Churn post](https://lnkd.in/p/ekFqE_gJ)
 
 ## Author
 
