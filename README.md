@@ -85,6 +85,13 @@ synent-task9-telcochurn-ahmed/
 - Streamlit Cloud: `share.streamlit.io` → Create app → repo / branch `main` / `app.py` → Deploy → `https://<app>.streamlit.app`
 - App expects `model/churn_model.joblib` relative to `app.py`.
 
+## Demo Video & Links
+
+- **GitHub:** [synent-task9-telcochurn-ahmed](https://github.com/AhmedAmineBejaoui/synent-task9-telcochurn-ahmed)
+- **Dataset:** [Kaggle — Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) + local `data/WA_Fn-UseC_-Telco-Customer-Churn.csv`
+- **Video (1–3 min):** _TODO — add Drive/YouTube link here_
+- **LinkedIn post:** _TODO — add LinkedIn post link here_
+
 ## Author
 
 Ahmed Amin Bejaoui – Synent Task 9
